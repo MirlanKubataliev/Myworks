@@ -1,3 +1,3 @@
 # Deployed Link
 
-https://MirlanKubataliev.github.io/
+https://mirlankubataliev.github.io/
