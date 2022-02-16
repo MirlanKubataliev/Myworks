@@ -1,0 +1,49 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-box {
+  background-color: #8e979c;
+  color: #fff;
+  padding: 10px 0;
+}
+.container {
+  width: 1140px;
+
+  margin: 0 auto;
+}
+.logo {
+  float: left;
+}
+.menu {
+  padding: 0;
+  padding-left: 500px;
+  margin: 0;
+  list-style: none;
+  font-size: 0;
+}
+.menu-item {
+  display: inline-block;
+}
+.menu-item {
+  text-transform: uppercase;
+  padding: 0 15px;
+  font-size: 16px;
+}
+img {
+  border-radius: 1%;
+  border: 1px solid black;
+}
